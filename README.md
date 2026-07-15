@@ -48,6 +48,10 @@ python "Simple Character Table.py"
 3. Kliknij znak, aby zobaczyć jego szczegóły.
 4. Skopiuj znak lub sekwencję do schowka.
 
+## Zrzut ekranu
+
+![Screenshot aplikacji](https://via.placeholder.com/800x450.png?text=Simple+Character+Table)
+
 ## Autor
 
 Sebastian Januchowski
