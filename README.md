@@ -50,9 +50,6 @@ python "Simple Character Table.py"
 3. Click a character to view its details.
 4. Copy the character or sequence to the clipboard.
 
-## Screenshot
-
-![Application screenshot](https://via.placeholder.com/800x450.png?text=Simple+Character+Table)
 
 ## Author
 
