@@ -151,7 +151,23 @@ class TablicaZnakow(tk.Tk):
         super().__init__()
         self.lang = "en"
         self.title(LANG[self.lang]["title"])
-        
+
+        base_dir = os.path.dirname(__file__)
+        ico_path = os.path.join(base_dir, "icon.ico")
+        png_path = os.path.join(base_dir, "icon.png")
+
+        if os.path.exists(ico_path):
+            try:
+                self.iconbitmap(ico_path)
+            except tk.TclError:
+                pass
+        elif os.path.exists(png_path):
+            try:
+                self.icon_img = tk.PhotoImage(file=png_path)
+                self.iconphoto(True, self.icon_img)
+            except tk.TclError:
+                pass
+
         # Set window size and center it
         window_width = 900
         window_height = 650
