@@ -1,5 +1,7 @@
 # Simple Character Table
 
+![Screenshot aplikacji](screenshot.png)
+
 Prosty przeglądarka znaków Unicode napisana w Pythonie z użyciem biblioteki Tkinter.
 
 To narzędzie działa jako alternatywa dla systemowego programu Charmap i pozwala szybko przeglądać znaki Unicode, wyszukiwać je po nazwie lub kodzie oraz kopiować je do schowka.
