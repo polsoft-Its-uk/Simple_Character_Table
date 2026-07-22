@@ -1,5 +1,9 @@
 # Simple Character Table
 
+![Supported Platforms](https://img.shields.io/badge/platform-Windows-blue)
+![Supported Platforms](https://img.shields.io/badge/platform-Linux-green)
+![Supported Platforms](https://img.shields.io/badge/platform-macOS-lightgrey)
+
 ![Application screenshot](screenshot.png)
 
 A simple Unicode character browser written in Python using the Tkinter library.

@@ -1,5 +1,9 @@
 # Simple Character Table
 
+![Supported Platforms](https://img.shields.io/badge/platform-Windows-blue)
+![Supported Platforms](https://img.shields.io/badge/platform-Linux-green)
+![Supported Platforms](https://img.shields.io/badge/platform-macOS-lightgrey)
+
 ![Screenshot aplikacji](screenshot.png)
 
 Prosty przeglądarka znaków Unicode napisana w Pythonie z użyciem biblioteki Tkinter.
